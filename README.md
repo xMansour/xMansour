@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Mansour</h1>
-<h3 align="center">Junior Full Stack JavaScript Developer.</h3>
+<h3 align="center">Junior JavaScript Developer.</h3>
 
 - 🔭 I’m currently working on [MovieLib](https://github.com/xMansour/MovieLib)
 
 - 🌱 I’m currently learning **learning Web Development, Data Structures, Algorithms, OOP, Design Patterns and other programming languages.**
 
-- 📫 How to reach me **You can email me @<a href="mailto:MElsayedMansour96@gmail.com">MElsayedMansour96@gmail.com</a> or via whatsapp at <a>+201027293859</a>**
+- 📫 How to reach me **You can email me @<a href="mailto:MElsayedMansour96@gmail.com">MElsayedMansour96@gmail.com</a> or via whatsapp at <a href="https://api.whatsapp.com/send?phone=00201027293859&text=Hello%2C%20Mansour">+201027293859</a>**
 
   **Profile Views:** <p align="left"> <img src="https://komarev.com/ghpvc/?username=xmansour&label=Profile%20views&color=0e75b6&style=flat" alt="xmansour" /> </p>
 
