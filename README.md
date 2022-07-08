@@ -7,9 +7,6 @@
 
 - 📫 How to reach me **You can email me @<a href="mailto:MElsayedMansour96@gmail.com">MElsayedMansour96@gmail.com</a> or via whatsapp at <a href="https://api.whatsapp.com/send?phone=00201027293859&text=Hello%2C%20Mansour">+201027293859</a>**
 
-  **Profile Views:** <p align="left"> <img src="https://komarev.com/ghpvc/?username=xmansour&label=Profile%20views&color=0e75b6&style=flat" alt="xmansour" /> </p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://linkedin.com/in/melsayedmansour96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melsayedmansour96" height="30" width="40" /></a>
