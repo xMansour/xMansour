@@ -3,7 +3,7 @@
 
 - I’m currently working as a Software Developer at Schneider Electric.
 
-- How to reach me **You can email me @<a href="mailto:MElsayedMansour96@gmail.com">MElsayedMansour96@gmail.com</a>.
+- You can email me @<a href="mailto:MElsayedMansour96@gmail.com">MElsayedMansour96@gmail.com</a> if you have any query about my projects.
 
 - You can download my reseme through this <a href="https://drive.google.com/file/d/1j5lx3XCQDsjy5ZR--tPsd8j96ignI6vV/view?usp=sharing
 ">link</a>.
